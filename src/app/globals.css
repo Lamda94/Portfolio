@@ -223,10 +223,9 @@ html, body {
     border: 1px solid var(--border-primary);
     box-shadow: var(--shadow-lg);
     overflow: hidden;
-    max-width: 900px;
     width: 100%;
     box-sizing: border-box;
-    min-height: 400px;
+    min-height: 520px;
     max-height: 80vh;
     margin: 0 auto;
 }
